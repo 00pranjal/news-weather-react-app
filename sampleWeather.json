@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 76.5241,
+        "lat": 31.7089
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 291.19,
+        "feels_like": 290.93,
+        "temp_min": 291.19,
+        "temp_max": 291.19,
+        "pressure": 1008,
+        "humidity": 72,
+        "sea_level": 1008,
+        "grnd_level": 910
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.12,
+        "deg": 84,
+        "gust": 1.98
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1664741747,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1664758115,
+        "sunset": 1664800639
+    },
+    "timezone": 19800,
+    "id": 1270454,
+    "name": "Hamīrpur",
+    "cod": 200
+}

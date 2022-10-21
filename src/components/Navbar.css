@@ -1,0 +1,35 @@
+nav{
+    background-color: #ffe9e2;
+    margin-right: 10px;
+    position: sticky;
+    top: 0;
+    border-radius: 0 0 5px 0;
+}
+ul li{
+    list-style: none;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    margin: 0 10px 0 10px;
+}
+ul li:first-child{
+    margin-left: 0;
+}
+ul li:last-child{
+    margin-right: 0;
+}
+ul{
+    padding: 5px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    background-color: #ffe9e2;
+}
+ul a{
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+}
+ul a:hover{
+    color:#e35252ed;
+}

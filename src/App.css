@@ -1,0 +1,19 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+#content{
+  display: flex;
+}
+#newsContent{
+  display: flex;
+  flex-direction: column;
+  width: 60vw;
+}
+#news{
+  padding: 2rem 0 2rem 2rem;
+}
+#weatherContent{
+  margin: 0 auto 0 auto;
+}

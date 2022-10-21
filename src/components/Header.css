@@ -1,0 +1,32 @@
+#cont{
+    display: flex;
+    justify-content:space-between;
+    border-bottom: 3px solid #612d89;
+}
+#top{
+    margin: 0 0 0 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+#logo{
+    width: 2rem;
+    height: 2rem;
+    margin-right: 5px;
+}
+#top header{
+    margin-left: 5px;
+    font-family:'Roboto Condensed', monospace;
+    text-align: center;
+    font-weight: 600;
+    font-size: 2rem;
+}
+#date{
+    align-self: flex-end;
+    font-family:'Roboto Condensed', monospace;
+    margin-right: 5px;
+    font-weight: lighter;
+    position: relative;
+    bottom: 5px;
+}

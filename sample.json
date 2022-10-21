@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 1739,
+    "articles": [
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Sheena Vasani",
+        "title": "Nanoleaf’s latest sale drops its colorful smart light starter kits to as low as $50",
+        "description": "Both Nanoleaf’s Mini Triangle and Lines starter kits are discounted. Plus, there are deals available on Shokz’s unique OpenRun open-ear headphones and Lenovo’s lightweight ThinkPad X1 Nano laptop.",
+        "url": "https://www.theverge.com/good-deals/2022/8/31/23328975/nanoleaf-shapes-lines-shokz-openrun-lenovo-thinkpad-amazon-echo-buds-samsung-chromebook-deal-sale",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/JLsCdZ1cgbfqD2z2c3VpfkDiN3w=/0x309:2040x1377/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22968038/jtuohy_211027_4855_0003.jpg",
+        "publishedAt": "2022-08-31T14:43:08Z",
+        "content": "Plus, Shokzs OpenRun open-ear headphones are on sale\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nVarious Nanoleaf lights are on sale, includin… [+6576 chars]"
+      },
+      {
+        "source": {
+          "id": "ars-technica",
+          "name": "Ars Technica"
+        },
+        "author": "Andrew Cunningham",
+        "title": "Apple quietly revamps malware scanning features in newer macOS versions",
+        "description": "New version of XProtect is \"as active as many commercial anti-malware products.\"",
+        "url": "https://arstechnica.com/gadgets/2022/08/apple-quietly-revamps-malware-scanning-features-in-newer-macos-versions/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/Monterey-Graphic-3-dragged-760x380.jpeg",
+        "publishedAt": "2022-08-31T14:55:37Z",
+        "content": "1 with 1 posters participating\r\nMacs don't have visible anti-malware software built-in, at least not in the same way that Microsoft does with Windows' highly visible Defender software. But Apple bega… [+3468 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "Chips tech firm Arm sues Qualcomm and Nuvia for breach of license and trademark - Reuters",
+        "description": "Chip technology firm Arm Ltd, which is owned by Softbank Group Corp <a href=\"https://www.reuters.com/companies/9984.T\" target=\"_blank\">(9984.T)</a>, said on Wednesday it has sued Qualcomm Inc <a href=\"https://www.reuters.com/companies/QCOM.O\" target=\"_blank\">…",
+        "url": "https://www.reuters.com/legal/chips-tech-firm-arm-sues-qualcomm-nuvia-breach-license-trademark-2022-08-31/",
+        "urlToImage": "https://www.reuters.com/resizer/q6wim-gDz0rKvKo0jMNKfJnyDyw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/F3ZFPS3UW5KORHMJRG7WQX5BLE.jpg",
+        "publishedAt": "2022-08-31T18:34:00Z",
+        "content": "SAN FRANCISCO, Aug 31 (Reuters) - Chip technology firm Arm Ltd, which is owned by Softbank Group Corp (9984.T), said on Wednesday it has sued Qualcomm Inc (QCOM.O) and Qualcomm's recently acquired ch… [+2485 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "TSMC making 'excellent' progress with Arizona chip plant, state governor says - Reuters",
+        "description": "Taiwanese chip maker TSMC <a href=\"https://www.reuters.com/companies/2330.TW\" target=\"_blank\">(2330.TW)</a> is making \"excellent\" progress building its new plant in Arizona, the governor of the U.S. state said on Wednesday, going on to praise his state's role…",
+        "url": "https://www.reuters.com/technology/tsmc-making-excellent-progress-with-arizona-chip-plant-state-governor-says-2022-08-31/",
+        "urlToImage": "https://www.reuters.com/resizer/3Rx96O3w2idCX7XwKI3fjSUe8VA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RGVEZUEETBMPVCWY5H67LNTTQA.jpg",
+        "publishedAt": "2022-08-31T06:02:00Z",
+        "content": "TAIPEI, Aug 31 (Reuters) - Taiwanese chip maker TSMC (2330.TW) is making \"excellent\" progress building its new plant in Arizona, the governor of the U.S. state said on Wednesday, going on to praise h… [+2184 chars]"
+      }
+    ]
+}

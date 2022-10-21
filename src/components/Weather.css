@@ -1,0 +1,109 @@
+#heading{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Roboto, Arial;
+}
+#button {
+    min-width: 150px;
+    padding: 5px;
+    margin: 20px auto 10px auto;
+    background-color: #874cb4;
+    border: 0;
+    border-radius: 5px;
+    color: #ffffff;
+    cursor: pointer;
+    font-family: Roboto, "Helvetica Neue", "Fira Sans", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    transition: 0.2s;
+}
+#button:hover{
+    background-color: #612d89;
+    color: #ffffff;
+}
+.form{
+    min-width: 150px;
+    margin: 15px auto 10px auto;
+}
+#Search{
+    font-size: 15px;
+    border-radius: 5px;
+    padding: 2px;
+    border: 1px solid #874cb4;
+}
+#Search:focus{
+    outline: 2px solid #612d89;
+}
+#weatherBox{
+    width: 25vw;
+    background-color: #ffe9e2;
+    padding: 10px 20px 20px 20px;
+    border-radius: 0 0 10px 10px;
+    margin-top: 0;
+    position: sticky;
+    top: 0;
+    max-height: 90vh;
+    overflow-y: auto;
+
+}
+#weather{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-family: Verdana, Roboto;
+}
+p{
+    text-align: center;
+}
+#localWeather, #cityWeather{
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+.city{
+    width: 70%;
+    border-bottom: 2px solid #874cb4;
+    margin: 15px 20px 0 20px;
+    padding-bottom: 2px;
+    font-size: 20px;
+}
+.temperature{
+    width: 50%;
+    padding: 5px;
+    margin: auto;
+    font-size: 20px;
+}
+.description{
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    margin: 0 20px 0 20px;
+}
+.description span{
+    display: flex;
+    align-items: center;
+}
+.iconimg{
+    width: 70px;
+}
+.windSpeed{
+    font-size: 15px;
+    margin: 0 20px 20px 15px;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffffff;
+    align-self: center;
+    border-radius: 10px;
+    border: 1px solid #874cb4;
+    min-width: 80%;
+}
+.info:empty{
+    border: none;
+}
+.status{
+    padding: 5px;
+}
